@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0db"
+  },
+  "acronym": "SH",
+  "id": 1,
+  "state": "schleswig holstein"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0dc"
+  },
+  "acronym": "HH",
+  "id": 2,
+  "state": "hamburg"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0dd"
+  },
+  "acronym": "NI",
+  "id": 3,
+  "state": "niedersachsen"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0de"
+  },
+  "acronym": "HB",
+  "id": 4,
+  "state": "bremen"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0df"
+  },
+  "acronym": "NW",
+  "id": 5,
+  "state": "nordrhein westfalen"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e0"
+  },
+  "acronym": "HE",
+  "id": 6,
+  "state": "hessen"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e1"
+  },
+  "acronym": "RP",
+  "id": 7,
+  "state": "rheinland pfalz"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e2"
+  },
+  "acronym": "BW",
+  "id": 8,
+  "state": "baden württemberg"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e3"
+  },
+  "acronym": "BY",
+  "id": 9,
+  "state": "bayern"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e4"
+  },
+  "acronym": "SL",
+  "id": 10,
+  "state": "saarland"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e5"
+  },
+  "acronym": "BE",
+  "id": 11,
+  "state": "berlin"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e6"
+  },
+  "acronym": "BB",
+  "id": 12,
+  "state": "brandenburg"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e7"
+  },
+  "acronym": "MV",
+  "id": 13,
+  "state": "mecklenburg vorpommern"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e8"
+  },
+  "acronym": "SN",
+  "id": 14,
+  "state": "sachsen"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0e9"
+  },
+  "acronym": "ST",
+  "id": 15,
+  "state": "sachsen anhalt"
+},{
+  "_id": {
+    "$oid": "61f7b224fa63a0d89a63c0ea"
+  },
+  "acronym": "TH",
+  "id": 16,
+  "state": "thüringen"
+}]

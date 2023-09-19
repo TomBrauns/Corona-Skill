@@ -1,0 +1,2335 @@
+[{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a86d"
+  },
+  "ags": 10041,
+  "district": "regionalverband saarbrücken"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a86e"
+  },
+  "ags": 10042,
+  "district": "merzig wadern"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a86f"
+  },
+  "ags": 10043,
+  "district": "neunkirchen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a870"
+  },
+  "ags": 10044,
+  "district": "saarlouis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a871"
+  },
+  "ags": 10045,
+  "district": "saarpfalz kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a872"
+  },
+  "ags": 10046,
+  "district": "st. wendel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a873"
+  },
+  "ags": 11001,
+  "district": "berlin mitte"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a874"
+  },
+  "ags": 11002,
+  "district": "berlin friedrichshain kreuzberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a875"
+  },
+  "ags": 11003,
+  "district": "berlin pankow"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a876"
+  },
+  "ags": 11004,
+  "district": "berlin charlottenburg wilmersdorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a877"
+  },
+  "ags": 11005,
+  "district": "berlin spandau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a878"
+  },
+  "ags": 11006,
+  "district": "berlin steglitz zehlendorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a879"
+  },
+  "ags": 11007,
+  "district": "berlin tempelhof schöneberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87a"
+  },
+  "ags": 11008,
+  "district": "berlin neukölln"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87b"
+  },
+  "ags": 11009,
+  "district": "berlin treptow köpenick"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87c"
+  },
+  "ags": 11010,
+  "district": "berlin marzahn hellersdorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87d"
+  },
+  "ags": 11011,
+  "district": "berlin lichtenberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87e"
+  },
+  "ags": 11012,
+  "district": "berlin reinickendorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a87f"
+  },
+  "ags": 12051,
+  "district": "brandenburg an der havel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a880"
+  },
+  "ags": 12052,
+  "district": "cottbus"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a881"
+  },
+  "ags": 12053,
+  "district": "frankfurt (oder)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a882"
+  },
+  "ags": 12054,
+  "district": "potsdam"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a883"
+  },
+  "ags": 12060,
+  "district": "barnim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a884"
+  },
+  "ags": 12061,
+  "district": "dahme spreewald"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a885"
+  },
+  "ags": 12062,
+  "district": "elbe elster"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a886"
+  },
+  "ags": 12063,
+  "district": "havelland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a887"
+  },
+  "ags": 12064,
+  "district": "märkisch oderland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a888"
+  },
+  "ags": 12065,
+  "district": "oberhavel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a889"
+  },
+  "ags": 12066,
+  "district": "oberspreewald lausitz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88a"
+  },
+  "ags": 12067,
+  "district": "oder spree"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88b"
+  },
+  "ags": 12068,
+  "district": "ostprignitz ruppin"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88c"
+  },
+  "ags": 12069,
+  "district": "potsdam mittelmark"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88d"
+  },
+  "ags": 12070,
+  "district": "prignitz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88e"
+  },
+  "ags": 12071,
+  "district": "spree neiße"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a88f"
+  },
+  "ags": 12072,
+  "district": "teltow fläming"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a890"
+  },
+  "ags": 12073,
+  "district": "uckermark"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a891"
+  },
+  "ags": 13004,
+  "district": "schwerin"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a892"
+  },
+  "ags": 13071,
+  "district": "mecklenburgische seenplatte"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a893"
+  },
+  "ags": 13072,
+  "district": "rostock"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a894"
+  },
+  "ags": 13073,
+  "district": "vorpommern rügen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a895"
+  },
+  "ags": 13074,
+  "district": "nordwestmecklenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a896"
+  },
+  "ags": 13075,
+  "district": "vorpommern greifswald"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a897"
+  },
+  "ags": 13076,
+  "district": "ludwigslust parchim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a898"
+  },
+  "ags": 14511,
+  "district": "chemnitz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a899"
+  },
+  "ags": 14521,
+  "district": "erzgebirgskreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89a"
+  },
+  "ags": 14522,
+  "district": "mittelsachsen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89b"
+  },
+  "ags": 14523,
+  "district": "vogtlandkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89c"
+  },
+  "ags": 14524,
+  "district": "zwickau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89d"
+  },
+  "ags": 14612,
+  "district": "dresden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89e"
+  },
+  "ags": 14625,
+  "district": "bautzen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a89f"
+  },
+  "ags": 14626,
+  "district": "görlitz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a0"
+  },
+  "ags": 14627,
+  "district": "meißen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a1"
+  },
+  "ags": 14628,
+  "district": "sächsische schweiz osterzgebirge"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a2"
+  },
+  "ags": 14729,
+  "district": "leipzig"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a3"
+  },
+  "ags": 14730,
+  "district": "nordsachsen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a4"
+  },
+  "ags": 15001,
+  "district": "dessau roßlau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a5"
+  },
+  "ags": 15002,
+  "district": "halle (saale)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a6"
+  },
+  "ags": 15003,
+  "district": "magdeburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a7"
+  },
+  "ags": 15081,
+  "district": "altmarkkreis salzwedel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a8"
+  },
+  "ags": 15082,
+  "district": "anhalt bitterfeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8a9"
+  },
+  "ags": 15083,
+  "district": "börde"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8aa"
+  },
+  "ags": 15084,
+  "district": "burgenlandkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ab"
+  },
+  "ags": 15085,
+  "district": "harz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ac"
+  },
+  "ags": 15086,
+  "district": "jerichower land"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ad"
+  },
+  "ags": 15087,
+  "district": "mansfeld südharz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ae"
+  },
+  "ags": 15088,
+  "district": "saalekreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8af"
+  },
+  "ags": 15089,
+  "district": "salzlandkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b0"
+  },
+  "ags": 15090,
+  "district": "stendal"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b1"
+  },
+  "ags": 15091,
+  "district": "wittenberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b2"
+  },
+  "ags": 16051,
+  "district": "erfurt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b3"
+  },
+  "ags": 16052,
+  "district": "gera"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b4"
+  },
+  "ags": 16053,
+  "district": "jena"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b5"
+  },
+  "ags": 16054,
+  "district": "suhl"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b6"
+  },
+  "ags": 16055,
+  "district": "weimar"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b7"
+  },
+  "ags": 16061,
+  "district": "eichsfeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b8"
+  },
+  "ags": 16062,
+  "district": "nordhausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8b9"
+  },
+  "ags": 16063,
+  "district": "wartburgkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ba"
+  },
+  "ags": 16064,
+  "district": "unstrut hainich kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8bb"
+  },
+  "ags": 16065,
+  "district": "kyffhäuserkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8bc"
+  },
+  "ags": 16066,
+  "district": "schmalkalden meiningen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8bd"
+  },
+  "ags": 16067,
+  "district": "gotha"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8be"
+  },
+  "ags": 16068,
+  "district": "sömmerda"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8bf"
+  },
+  "ags": 16069,
+  "district": "hildburghausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c0"
+  },
+  "ags": 16070,
+  "district": "ilm kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c1"
+  },
+  "ags": 16071,
+  "district": "weimarer land"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c2"
+  },
+  "ags": 16072,
+  "district": "sonneberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c3"
+  },
+  "ags": 16073,
+  "district": "saalfeld rudolstadt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c4"
+  },
+  "ags": 16074,
+  "district": "saale holzland kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c5"
+  },
+  "ags": 16075,
+  "district": "saale orla kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c6"
+  },
+  "ags": 16076,
+  "district": "greiz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c7"
+  },
+  "ags": 16077,
+  "district": "altenburger land"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c8"
+  },
+  "ags": 1001,
+  "district": "flensburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8c9"
+  },
+  "ags": 1002,
+  "district": "kiel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ca"
+  },
+  "ags": 1003,
+  "district": "lübeck"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8cb"
+  },
+  "ags": 1004,
+  "district": "neumünster"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8cc"
+  },
+  "ags": 1051,
+  "district": "dithmarschen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8cd"
+  },
+  "ags": 1053,
+  "district": "herzogtum lauenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ce"
+  },
+  "ags": 1054,
+  "district": "nordfriesland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8cf"
+  },
+  "ags": 1055,
+  "district": "ostholstein"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d0"
+  },
+  "ags": 1056,
+  "district": "pinneberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d1"
+  },
+  "ags": 1057,
+  "district": "plön"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d2"
+  },
+  "ags": 1058,
+  "district": "rendsburg eckernförde"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d3"
+  },
+  "ags": 1059,
+  "district": "schleswig flensburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d4"
+  },
+  "ags": 1060,
+  "district": "segeberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d5"
+  },
+  "ags": 1061,
+  "district": "steinburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d6"
+  },
+  "ags": 1062,
+  "district": "stormarn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d7"
+  },
+  "ags": 2000,
+  "district": "hamburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d8"
+  },
+  "ags": 3101,
+  "district": "braunschweig"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8d9"
+  },
+  "ags": 3102,
+  "district": "salzgitter"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8da"
+  },
+  "ags": 3103,
+  "district": "wolfsburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8db"
+  },
+  "ags": 3151,
+  "district": "gifhorn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8dc"
+  },
+  "ags": 3153,
+  "district": "goslar"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8dd"
+  },
+  "ags": 3154,
+  "district": "helmstedt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8de"
+  },
+  "ags": 3155,
+  "district": "northeim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8df"
+  },
+  "ags": 3157,
+  "district": "peine"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e0"
+  },
+  "ags": 3158,
+  "district": "wolfenbüttel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e1"
+  },
+  "ags": 3159,
+  "district": "göttingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e2"
+  },
+  "ags": 3241,
+  "district": "region hannover"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e3"
+  },
+  "ags": 3251,
+  "district": "diepholz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e4"
+  },
+  "ags": 3252,
+  "district": "hameln pyrmont"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e5"
+  },
+  "ags": 3254,
+  "district": "hildesheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e6"
+  },
+  "ags": 3255,
+  "district": "holzminden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e7"
+  },
+  "ags": 3256,
+  "district": "nienburg (weser)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e8"
+  },
+  "ags": 3257,
+  "district": "schaumburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8e9"
+  },
+  "ags": 3351,
+  "district": "celle"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ea"
+  },
+  "ags": 3352,
+  "district": "cuxhaven"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8eb"
+  },
+  "ags": 3353,
+  "district": "harburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ec"
+  },
+  "ags": 3354,
+  "district": "lüchow dannenberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ed"
+  },
+  "ags": 3355,
+  "district": "lüneburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ee"
+  },
+  "ags": 3356,
+  "district": "osterholz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ef"
+  },
+  "ags": 3357,
+  "district": "rotenburg (wümme)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f0"
+  },
+  "ags": 3358,
+  "district": "heidekreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f1"
+  },
+  "ags": 3359,
+  "district": "stade"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f2"
+  },
+  "ags": 3360,
+  "district": "uelzen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f3"
+  },
+  "ags": 3361,
+  "district": "verden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f4"
+  },
+  "ags": 3401,
+  "district": "delmenhorst"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f5"
+  },
+  "ags": 3402,
+  "district": "emden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f6"
+  },
+  "ags": 3403,
+  "district": "oldenburg (oldb)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f7"
+  },
+  "ags": 3405,
+  "district": "wilhelmshaven"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f8"
+  },
+  "ags": 3451,
+  "district": "ammerland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8f9"
+  },
+  "ags": 3452,
+  "district": "aurich"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8fa"
+  },
+  "ags": 3453,
+  "district": "cloppenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8fb"
+  },
+  "ags": 3454,
+  "district": "emsland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8fc"
+  },
+  "ags": 3455,
+  "district": "friesland"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8fd"
+  },
+  "ags": 3456,
+  "district": "grafschaft bentheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8fe"
+  },
+  "ags": 3457,
+  "district": "leer"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a8ff"
+  },
+  "ags": 3458,
+  "district": "oldenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a900"
+  },
+  "ags": 3459,
+  "district": "osnabrück"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a901"
+  },
+  "ags": 3460,
+  "district": "vechta"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a902"
+  },
+  "ags": 3461,
+  "district": "wesermarsch"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a903"
+  },
+  "ags": 3462,
+  "district": "wittmund"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a904"
+  },
+  "ags": 4011,
+  "district": "bremen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a905"
+  },
+  "ags": 4012,
+  "district": "bremerhaven"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a906"
+  },
+  "ags": 5111,
+  "district": "düsseldorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a907"
+  },
+  "ags": 5112,
+  "district": "duisburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a908"
+  },
+  "ags": 5113,
+  "district": "essen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a909"
+  },
+  "ags": 5114,
+  "district": "krefeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90a"
+  },
+  "ags": 5116,
+  "district": "mönchengladbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90b"
+  },
+  "ags": 5117,
+  "district": "mülheim an der ruhr"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90c"
+  },
+  "ags": 5119,
+  "district": "oberhausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90d"
+  },
+  "ags": 5120,
+  "district": "remscheid"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90e"
+  },
+  "ags": 5122,
+  "district": "solingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a90f"
+  },
+  "ags": 5124,
+  "district": "wuppertal"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a910"
+  },
+  "ags": 5154,
+  "district": "kleve"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a911"
+  },
+  "ags": 5158,
+  "district": "mettmann"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a912"
+  },
+  "ags": 5162,
+  "district": "rhein kreis neuss"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a913"
+  },
+  "ags": 5166,
+  "district": "viersen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a914"
+  },
+  "ags": 5170,
+  "district": "wesel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a915"
+  },
+  "ags": 5314,
+  "district": "bonn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a916"
+  },
+  "ags": 5315,
+  "district": "köln"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a917"
+  },
+  "ags": 5316,
+  "district": "leverkusen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a918"
+  },
+  "ags": 5334,
+  "district": "städteregion aachen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a919"
+  },
+  "ags": 5358,
+  "district": "düren"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91a"
+  },
+  "ags": 5362,
+  "district": "rhein erft kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91b"
+  },
+  "ags": 5366,
+  "district": "euskirchen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91c"
+  },
+  "ags": 5370,
+  "district": "heinsberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91d"
+  },
+  "ags": 5374,
+  "district": "oberbergischer kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91e"
+  },
+  "ags": 5378,
+  "district": "rheinisch bergischer kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a91f"
+  },
+  "ags": 5382,
+  "district": "rhein sieg kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a920"
+  },
+  "ags": 5512,
+  "district": "bottrop"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a921"
+  },
+  "ags": 5513,
+  "district": "gelsenkirchen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a922"
+  },
+  "ags": 5515,
+  "district": "münster"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a923"
+  },
+  "ags": 5554,
+  "district": "borken"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a924"
+  },
+  "ags": 5558,
+  "district": "coesfeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a925"
+  },
+  "ags": 5562,
+  "district": "recklinghausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a926"
+  },
+  "ags": 5566,
+  "district": "steinfurt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a927"
+  },
+  "ags": 5570,
+  "district": "warendorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a928"
+  },
+  "ags": 5711,
+  "district": "bielefeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a929"
+  },
+  "ags": 5754,
+  "district": "gütersloh"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92a"
+  },
+  "ags": 5758,
+  "district": "herford"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92b"
+  },
+  "ags": 5762,
+  "district": "höxter"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92c"
+  },
+  "ags": 5766,
+  "district": "lippe"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92d"
+  },
+  "ags": 5770,
+  "district": "minden lübbecke"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92e"
+  },
+  "ags": 5774,
+  "district": "paderborn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a92f"
+  },
+  "ags": 5911,
+  "district": "bochum"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a930"
+  },
+  "ags": 5913,
+  "district": "dortmund"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a931"
+  },
+  "ags": 5914,
+  "district": "hagen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a932"
+  },
+  "ags": 5915,
+  "district": "hamm"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a933"
+  },
+  "ags": 5916,
+  "district": "herne"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a934"
+  },
+  "ags": 5954,
+  "district": "ennepe ruhr kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a935"
+  },
+  "ags": 5958,
+  "district": "hochsauerlandkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a936"
+  },
+  "ags": 5962,
+  "district": "märkischer kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a937"
+  },
+  "ags": 5966,
+  "district": "olpe"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a938"
+  },
+  "ags": 5970,
+  "district": "siegen wittgenstein"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a939"
+  },
+  "ags": 5974,
+  "district": "soest"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93a"
+  },
+  "ags": 5978,
+  "district": "unna"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93b"
+  },
+  "ags": 6411,
+  "district": "darmstadt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93c"
+  },
+  "ags": 6412,
+  "district": "frankfurt am main"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93d"
+  },
+  "ags": 6413,
+  "district": "offenbach am main"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93e"
+  },
+  "ags": 6414,
+  "district": "wiesbaden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a93f"
+  },
+  "ags": 6431,
+  "district": "bergstraße"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a940"
+  },
+  "ags": 6432,
+  "district": "darmstadt dieburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a941"
+  },
+  "ags": 6433,
+  "district": "groß gerau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a942"
+  },
+  "ags": 6434,
+  "district": "hochtaunuskreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a943"
+  },
+  "ags": 6435,
+  "district": "main kinzig kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a944"
+  },
+  "ags": 6436,
+  "district": "main taunus kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a945"
+  },
+  "ags": 6437,
+  "district": "odenwaldkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a946"
+  },
+  "ags": 6438,
+  "district": "offenbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a947"
+  },
+  "ags": 6439,
+  "district": "rheingau taunus kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a948"
+  },
+  "ags": 6440,
+  "district": "wetteraukreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a949"
+  },
+  "ags": 6531,
+  "district": "gießen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94a"
+  },
+  "ags": 6532,
+  "district": "lahn dill kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94b"
+  },
+  "ags": 6533,
+  "district": "limburg weilburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94c"
+  },
+  "ags": 6534,
+  "district": "marburg biedenkopf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94d"
+  },
+  "ags": 6535,
+  "district": "vogelsbergkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94e"
+  },
+  "ags": 6631,
+  "district": "fulda"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a94f"
+  },
+  "ags": 6632,
+  "district": "hersfeld rotenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a950"
+  },
+  "ags": 6633,
+  "district": "kassel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a951"
+  },
+  "ags": 6634,
+  "district": "schwalm eder kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a952"
+  },
+  "ags": 6635,
+  "district": "waldeck frankenberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a953"
+  },
+  "ags": 6636,
+  "district": "werra meißner kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a954"
+  },
+  "ags": 7111,
+  "district": "koblenz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a955"
+  },
+  "ags": 7131,
+  "district": "ahrweiler"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a956"
+  },
+  "ags": 7132,
+  "district": "altenkirchen (westerwald)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a957"
+  },
+  "ags": 7133,
+  "district": "bad kreuznach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a958"
+  },
+  "ags": 7134,
+  "district": "birkenfeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a959"
+  },
+  "ags": 7135,
+  "district": "cochem zell"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95a"
+  },
+  "ags": 7137,
+  "district": "mayen koblenz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95b"
+  },
+  "ags": 7138,
+  "district": "neuwied"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95c"
+  },
+  "ags": 7140,
+  "district": "rhein hunsrück kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95d"
+  },
+  "ags": 7141,
+  "district": "rhein lahn kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95e"
+  },
+  "ags": 7143,
+  "district": "westerwaldkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a95f"
+  },
+  "ags": 7211,
+  "district": "trier"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a960"
+  },
+  "ags": 7231,
+  "district": "bernkastel wittlich"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a961"
+  },
+  "ags": 7232,
+  "district": "eifelkreis bitburg prüm"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a962"
+  },
+  "ags": 7233,
+  "district": "vulkaneifel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a963"
+  },
+  "ags": 7235,
+  "district": "trier saarburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a964"
+  },
+  "ags": 7311,
+  "district": "frankenthal (pfalz)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a965"
+  },
+  "ags": 7313,
+  "district": "landau in der pfalz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a966"
+  },
+  "ags": 7314,
+  "district": "ludwigshafen am rhein"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a967"
+  },
+  "ags": 7315,
+  "district": "mainz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a968"
+  },
+  "ags": 7316,
+  "district": "neustadt an der weinstraße"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a969"
+  },
+  "ags": 7317,
+  "district": "pirmasens"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96a"
+  },
+  "ags": 7318,
+  "district": "speyer"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96b"
+  },
+  "ags": 7319,
+  "district": "worms"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96c"
+  },
+  "ags": 7320,
+  "district": "zweibrücken"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96d"
+  },
+  "ags": 7331,
+  "district": "alzey worms"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96e"
+  },
+  "ags": 7332,
+  "district": "bad dürkheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a96f"
+  },
+  "ags": 7333,
+  "district": "donnersbergkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a970"
+  },
+  "ags": 7334,
+  "district": "germersheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a971"
+  },
+  "ags": 7335,
+  "district": "kaiserslautern"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a972"
+  },
+  "ags": 7336,
+  "district": "kusel"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a973"
+  },
+  "ags": 7337,
+  "district": "südliche weinstraße"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a974"
+  },
+  "ags": 7338,
+  "district": "rhein pfalz kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a975"
+  },
+  "ags": 7339,
+  "district": "mainz bingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a976"
+  },
+  "ags": 7340,
+  "district": "südwestpfalz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a977"
+  },
+  "ags": 8111,
+  "district": "stuttgart"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a978"
+  },
+  "ags": 8115,
+  "district": "böblingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a979"
+  },
+  "ags": 8116,
+  "district": "esslingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97a"
+  },
+  "ags": 8117,
+  "district": "göppingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97b"
+  },
+  "ags": 8118,
+  "district": "ludwigsburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97c"
+  },
+  "ags": 8119,
+  "district": "rems murr kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97d"
+  },
+  "ags": 8125,
+  "district": "heilbronn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97e"
+  },
+  "ags": 8126,
+  "district": "hohenlohekreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a97f"
+  },
+  "ags": 8127,
+  "district": "schwäbisch hall"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a980"
+  },
+  "ags": 8128,
+  "district": "main tauber kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a981"
+  },
+  "ags": 8135,
+  "district": "heidenheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a982"
+  },
+  "ags": 8136,
+  "district": "ostalbkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a983"
+  },
+  "ags": 8211,
+  "district": "baden baden"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a984"
+  },
+  "ags": 8215,
+  "district": "karlsruhe"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a985"
+  },
+  "ags": 8216,
+  "district": "rastatt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a986"
+  },
+  "ags": 8221,
+  "district": "heidelberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a987"
+  },
+  "ags": 8222,
+  "district": "mannheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a988"
+  },
+  "ags": 8225,
+  "district": "neckar odenwald kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a989"
+  },
+  "ags": 8226,
+  "district": "rhein neckar kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98a"
+  },
+  "ags": 8231,
+  "district": "pforzheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98b"
+  },
+  "ags": 8235,
+  "district": "calw"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98c"
+  },
+  "ags": 8236,
+  "district": "enzkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98d"
+  },
+  "ags": 8237,
+  "district": "freudenstadt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98e"
+  },
+  "ags": 8311,
+  "district": "freiburg im breisgau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a98f"
+  },
+  "ags": 8315,
+  "district": "breisgau hochschwarzwald"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a990"
+  },
+  "ags": 8316,
+  "district": "emmendingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a991"
+  },
+  "ags": 8317,
+  "district": "ortenaukreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a992"
+  },
+  "ags": 8325,
+  "district": "rottweil"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a993"
+  },
+  "ags": 8326,
+  "district": "schwarzwald baar kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a994"
+  },
+  "ags": 8327,
+  "district": "tuttlingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a995"
+  },
+  "ags": 8335,
+  "district": "konstanz"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a996"
+  },
+  "ags": 8336,
+  "district": "lörrach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a997"
+  },
+  "ags": 8337,
+  "district": "waldshut"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a998"
+  },
+  "ags": 8415,
+  "district": "reutlingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a999"
+  },
+  "ags": 8416,
+  "district": "tübingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99a"
+  },
+  "ags": 8417,
+  "district": "zollernalbkreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99b"
+  },
+  "ags": 8421,
+  "district": "ulm"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99c"
+  },
+  "ags": 8425,
+  "district": "alb donau kreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99d"
+  },
+  "ags": 8426,
+  "district": "biberach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99e"
+  },
+  "ags": 8435,
+  "district": "bodenseekreis"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a99f"
+  },
+  "ags": 8436,
+  "district": "ravensburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a0"
+  },
+  "ags": 8437,
+  "district": "sigmaringen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a1"
+  },
+  "ags": 9161,
+  "district": "ingolstadt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a2"
+  },
+  "ags": 9171,
+  "district": "altötting"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a3"
+  },
+  "ags": 9172,
+  "district": "berchtesgadener land"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a4"
+  },
+  "ags": 9173,
+  "district": "bad tölz wolfratshausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a5"
+  },
+  "ags": 9174,
+  "district": "dachau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a6"
+  },
+  "ags": 9175,
+  "district": "ebersberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a7"
+  },
+  "ags": 9176,
+  "district": "eichstätt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a8"
+  },
+  "ags": 9177,
+  "district": "erding"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9a9"
+  },
+  "ags": 9178,
+  "district": "freising"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9aa"
+  },
+  "ags": 9179,
+  "district": "fürstenfeldbruck"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ab"
+  },
+  "ags": 9180,
+  "district": "garmisch partenkirchen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ac"
+  },
+  "ags": 9181,
+  "district": "landsberg am lech"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ad"
+  },
+  "ags": 9182,
+  "district": "miesbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ae"
+  },
+  "ags": 9183,
+  "district": "mühldorf a. inn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9af"
+  },
+  "ags": 9184,
+  "district": "münchen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b0"
+  },
+  "ags": 9185,
+  "district": "neuburg schrobenhausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b1"
+  },
+  "ags": 9186,
+  "district": "pfaffenhofen a.d. ilm"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b2"
+  },
+  "ags": 9187,
+  "district": "rosenheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b3"
+  },
+  "ags": 9188,
+  "district": "starnberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b4"
+  },
+  "ags": 9189,
+  "district": "traunstein"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b5"
+  },
+  "ags": 9190,
+  "district": "weilheim schongau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b6"
+  },
+  "ags": 9263,
+  "district": "straubing"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b7"
+  },
+  "ags": 9271,
+  "district": "deggendorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b8"
+  },
+  "ags": 9272,
+  "district": "freyung grafenau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9b9"
+  },
+  "ags": 9273,
+  "district": "kelheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ba"
+  },
+  "ags": 9274,
+  "district": "landshut"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9bb"
+  },
+  "ags": 9275,
+  "district": "passau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9bc"
+  },
+  "ags": 9276,
+  "district": "regen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9bd"
+  },
+  "ags": 9277,
+  "district": "rottal inn"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9be"
+  },
+  "ags": 9278,
+  "district": "straubing bogen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9bf"
+  },
+  "ags": 9279,
+  "district": "dingolfing landau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c0"
+  },
+  "ags": 9361,
+  "district": "amberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c1"
+  },
+  "ags": 9363,
+  "district": "weiden i.d. opf."
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c2"
+  },
+  "ags": 9371,
+  "district": "amberg sulzbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c3"
+  },
+  "ags": 9372,
+  "district": "cham"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c4"
+  },
+  "ags": 9373,
+  "district": "neumarkt i.d. opf."
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c5"
+  },
+  "ags": 9374,
+  "district": "neustadt a.d. waldnaab"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c6"
+  },
+  "ags": 9375,
+  "district": "regensburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c7"
+  },
+  "ags": 9376,
+  "district": "schwandorf"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c8"
+  },
+  "ags": 9377,
+  "district": "tirschenreuth"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9c9"
+  },
+  "ags": 9471,
+  "district": "bamberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ca"
+  },
+  "ags": 9472,
+  "district": "bayreuth"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9cb"
+  },
+  "ags": 9473,
+  "district": "coburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9cc"
+  },
+  "ags": 9474,
+  "district": "forchheim 157"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9cd"
+  },
+  "ags": 9475,
+  "district": "hof"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ce"
+  },
+  "ags": 9476,
+  "district": "kronach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9cf"
+  },
+  "ags": 9477,
+  "district": "kulmbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d0"
+  },
+  "ags": 9478,
+  "district": "lichtenfels"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d1"
+  },
+  "ags": 9479,
+  "district": "wunsiedel i. fichtelgebirge"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d2"
+  },
+  "ags": 9562,
+  "district": "erlangen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d3"
+  },
+  "ags": 9564,
+  "district": "nürnberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d4"
+  },
+  "ags": 9565,
+  "district": "schwabach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d5"
+  },
+  "ags": 9571,
+  "district": "ansbach"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d6"
+  },
+  "ags": 9572,
+  "district": "erlangen höchstadt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d7"
+  },
+  "ags": 9573,
+  "district": "fürth"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d8"
+  },
+  "ags": 9574,
+  "district": "nürnberger land"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9d9"
+  },
+  "ags": 9575,
+  "district": "neustadt a.d. aisch bad windsheim"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9da"
+  },
+  "ags": 9576,
+  "district": "roth"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9db"
+  },
+  "ags": 9577,
+  "district": "weißenburg gunzenhausen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9dc"
+  },
+  "ags": 9671,
+  "district": "aschaffenburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9dd"
+  },
+  "ags": 9672,
+  "district": "bad kissingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9de"
+  },
+  "ags": 9673,
+  "district": "rhön grabfeld"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9df"
+  },
+  "ags": 9674,
+  "district": "haßberge"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e0"
+  },
+  "ags": 9675,
+  "district": "kitzingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e1"
+  },
+  "ags": 9676,
+  "district": "miltenberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e2"
+  },
+  "ags": 9677,
+  "district": "main spessart"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e3"
+  },
+  "ags": 9678,
+  "district": "schweinfurt"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e4"
+  },
+  "ags": 9679,
+  "district": "würzburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e5"
+  },
+  "ags": 9762,
+  "district": "kaufbeuren"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e6"
+  },
+  "ags": 9763,
+  "district": "kempten (allgäu)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e7"
+  },
+  "ags": 9764,
+  "district": "memmingen"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e8"
+  },
+  "ags": 9771,
+  "district": "aichach friedberg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9e9"
+  },
+  "ags": 9772,
+  "district": "augsburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ea"
+  },
+  "ags": 9773,
+  "district": "dillingen a.d. donau"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9eb"
+  },
+  "ags": 9774,
+  "district": "günzburg"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ec"
+  },
+  "ags": 9775,
+  "district": "neu ulm"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ed"
+  },
+  "ags": 9776,
+  "district": "lindau (bodensee)"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ee"
+  },
+  "ags": 9777,
+  "district": "ostallgäu"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9ef"
+  },
+  "ags": 9778,
+  "district": "unterallgäu"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9f0"
+  },
+  "ags": 9779,
+  "district": "donau ries"
+},{
+  "_id": {
+    "$oid": "61d571543fd7dffde774a9f1"
+  },
+  "ags": 9780,
+  "district": "oberallgäu"
+}]
